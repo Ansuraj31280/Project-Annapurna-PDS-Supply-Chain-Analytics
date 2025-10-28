@@ -14,8 +14,6 @@ This project applies time-series machine learning and data engineering principle
 
 **Core Deliverable:** An interactive **Power BI Risk Assessment Dashboard** providing a clear, color-coded warning system for predicted supply shortfalls.
 
-**Live Dashboard Link:** [Insert Your Power BI Publish to Web (Public) URL Here]
-
 ---
 
 ### 2. Problem Statement and Solution Design
